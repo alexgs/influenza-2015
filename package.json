@@ -1,12 +1,12 @@
 {
-  "name": "phils-awesome-app",
+  "name": "influenza-2015",
   "version": "1.0.0-alpha.0",
-  "description": "Phil's \"Awesome App\" starter kit for Webpack and React",
+  "description": "Display data for reported flu cases in the U.S. in 2015",
   "main": "./src/index.js",
   "author": "Phil Gates-Shannon <phil.gs@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philgs/phils-awesome-app.git"
+    "url": "https://github.com/philgs/influenza-2015.git"
   },
   "license": "MIT",
   "devDependencies": {
