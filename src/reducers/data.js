@@ -1,4 +1,4 @@
-
+// @flow
 
 const data = function( state = [ ], action ) {
 
